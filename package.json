@@ -1,0 +1,16 @@
+{
+  "name": "tdrm-date-formatier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2",
+    "moment": "^2.29.4"
+  }
+}
